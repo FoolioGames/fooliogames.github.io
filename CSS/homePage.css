@@ -8,7 +8,7 @@ body {
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin: 35px auto 35px auto;
-	background-image: url(Images/FoolioGamesLogo.png);
+	background-image: url(../Images/FoolioGamesLogo.png);
 	border-radius: 31px;/*63*/
 }
 
@@ -27,7 +27,7 @@ body {
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin: 5px;
-	background-image: url(Images/FeatureGraphic.png);
+	background-image: url(../Images/FeatureGraphic.png);
 	border-radius: 15px;
 	flex-grow: 4;
 }
@@ -46,7 +46,7 @@ body {
 	height: 40px;
 	background-size: contain;
 	background-repeat: no-repeat;
-	background-image: url(Images/googlePlayBadge.png);
+	background-image: url(../Images/googlePlayBadge.png);
 	margin: 5px 5px 5px 5px;
 }
 
@@ -55,7 +55,7 @@ body {
 	height: 40px;
 	background-size: contain;
 	background-repeat: no-repeat;
-	background-image: url(Images/iosBadge.png);
+	background-image: url(../Images/iosBadge.png);
 	margin: 5px 5px 5px 5px;
 	border-radius: 7px;
 }
