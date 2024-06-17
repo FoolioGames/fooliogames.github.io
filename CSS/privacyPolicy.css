@@ -1,0 +1,47 @@
+body {
+	background-color: #1e1e1e
+}
+
+.policyLabel {
+	width: 512px;
+	height: 250px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin: 35px auto 35px auto;
+	background-image: url(../images/FeatureGraphic.png);
+	border-radius: 15px;/*63*/
+}
+
+.policyLabelText {
+	color: white;
+	font-size: 3rem;
+	text-align: center;
+	margin: 60px auto 35px auto;
+}
+
+.policy {
+	width: 85%;
+	height: 100%;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin: 35px auto 70px auto;
+	border-radius: 31px;/*63*/
+	background-color: #c7c9b5;
+}
+
+.policyText {
+	color: black;
+	font-size: 1.1rem;
+	margin: 35px;
+}
+
+.policyText span {
+	font-size: 1.5rem;
+}
+
+.policy li {
+	color:black;
+	font-size: 1.1rem;
+	margin: 0px 0px 0px 25px;
+}
+
