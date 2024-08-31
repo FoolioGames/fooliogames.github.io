@@ -27,7 +27,7 @@ body {
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin: 5px;
-	background-image: url(/Images/FeatureGraphic.png);
+	background-image: url(/Images/FeatureGraphicFinal.png);
 	border-radius: 15px;
 	flex-grow: 4;
 }
