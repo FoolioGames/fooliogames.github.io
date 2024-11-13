@@ -86,15 +86,20 @@ body {
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-image: url(/Images/googlePlayBadge.png);
+	border: solid;
+	border-radius: 0.625em;
+	border-color: #2e3338;
 }
 
 .IOSLinkDiv {
-	width: 9.375em;
+	width: 9.3em;
 	height: 3.125em;
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-image: url(/Images/iosBadge.png);
-	border-radius: 0.438em;
+	border: solid;
+	border-radius: 0.625em;
+	border-color: #2e3338;
 }
 
 .storeLink {
