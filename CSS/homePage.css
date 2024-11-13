@@ -25,14 +25,14 @@ body {
 }
 
 .mainLogo {
-	width: 19.063em;
+	width: 17.3em;
 	height: 13em;
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin: .9em;
 	padding: 0.313em;
 	background-image: url(/Images/FoolioGamesLogo.png);
-	border-radius: 0.938em;/*63*/
+	border-radius: 1.4em;/*63*/
 	display: inline-block;
 }
 
